@@ -18,7 +18,7 @@ Gefinn er grunnur að verkefni, byggður á verkefni 7. Í grunni eru:
   - NPM scripts sem keyra upp „dev“ og „build“.
 - `package-lock.json` skrá sem skilgreinir nákvæmlega hvaða dependency eru notuð _fyrir_ dependency-in okkar
 - `index.html` með útliti úr sýnilausn og tengingu við `scripts.js` sem `JavaScript` module.
-- `.gitignore` sem passar upp á að `node_modules` mappan sé ekki geymd í git.
+- `.gitignore` sem passar upp á að `node_modules` nmappan sé ekki geymd í git.
 - `scripts.js` með grunni að forriti, athugasemdir og tillögur að útfærslum eru í skjalinu.
 - `styles.css` með útliti fyrir verkefnið.
 

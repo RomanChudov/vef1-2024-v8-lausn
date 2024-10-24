@@ -15,5 +15,9 @@
     "browser-sync": "^3.0.3",
     "concurrently": "^9.0.1",
     "cpy-cli": "^5.0.0"
+  },
+  "description": "- [Vefforritun 1, 2024, fyrirlestur 9.4: Verkefni 8](https://www.youtube.com/watch?v=2Sfcm0KfSaM)\r - [Vefforritun 1, 2024, fyrirlestur 10.2: Meira um verkefni 8 (24:35)](https://www.youtube.com/watch?v=LBEvRBbXnmM)",
+  "directories": {
+    "lib": "lib"
   }
 }
